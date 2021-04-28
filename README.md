@@ -1,2 +1,0 @@
-# serverless-federation
-Begin app
